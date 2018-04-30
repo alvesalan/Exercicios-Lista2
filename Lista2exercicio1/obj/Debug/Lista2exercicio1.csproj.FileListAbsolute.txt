@@ -1,0 +1,25 @@
+c:\users\i3i\documents\visual studio 2013\Projects\Lista2exercicio1\Lista2exercicio1\bin\Debug\Lista2exercicio1.exe.config
+c:\users\i3i\documents\visual studio 2013\Projects\Lista2exercicio1\Lista2exercicio1\bin\Debug\Lista2exercicio1.exe
+c:\users\i3i\documents\visual studio 2013\Projects\Lista2exercicio1\Lista2exercicio1\bin\Debug\Lista2exercicio1.pdb
+c:\users\i3i\documents\visual studio 2013\Projects\Lista2exercicio1\Lista2exercicio1\obj\Debug\Lista2exercicio1.csprojResolveAssemblyReference.cache
+c:\users\i3i\documents\visual studio 2013\Projects\Lista2exercicio1\Lista2exercicio1\obj\Debug\Lista2exercicio1.exe
+c:\users\i3i\documents\visual studio 2013\Projects\Lista2exercicio1\Lista2exercicio1\obj\Debug\Lista2exercicio1.pdb
+P:\Lista2exercicio1\Lista2exercicio1\bin\Debug\Lista2exercicio1.exe.config
+P:\Lista2exercicio1\Lista2exercicio1\obj\Debug\Lista2exercicio1.exe
+P:\Lista2exercicio1\Lista2exercicio1\obj\Debug\Lista2exercicio1.pdb
+P:\Lista2exercicio1\Lista2exercicio1\bin\Debug\Lista2exercicio1.exe
+P:\Lista2exercicio1\Lista2exercicio1\bin\Debug\Lista2exercicio1.pdb
+P:\Lista2exercicio1\Lista2exercicio1\obj\Debug\Lista2exercicio1.csprojResolveAssemblyReference.cache
+D:\Lista2exercicio1\bin\Debug\Lista2exercicio1.exe.config
+D:\Lista2exercicio1\obj\Debug\Lista2exercicio1.exe
+D:\Lista2exercicio1\obj\Debug\Lista2exercicio1.pdb
+D:\Lista2exercicio1\obj\Debug\Lista2exercicio1.csprojResolveAssemblyReference.cache
+D:\Lista2exercicio1\bin\Debug\Lista2exercicio1.exe
+D:\Lista2exercicio1\bin\Debug\Lista2exercicio1.pdb
+E:\Lista2exercicio1\obj\Debug\Lista2exercicio1.csprojResolveAssemblyReference.cache
+E:\Lista2exercicio1\obj\Debug\Lista2exercicio1.csproj.CoreCompileInputs.cache
+E:\Lista2exercicio1\obj\Debug\Lista2exercicio1.exe
+E:\Lista2exercicio1\bin\Debug\Lista2exercicio1.exe.config
+E:\Lista2exercicio1\bin\Debug\Lista2exercicio1.exe
+E:\Lista2exercicio1\bin\Debug\Lista2exercicio1.pdb
+E:\Lista2exercicio1\obj\Debug\Lista2exercicio1.pdb
